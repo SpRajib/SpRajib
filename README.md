@@ -1,4 +1,4 @@
-Hi 👋, I’m Rajib Sahoo
+Hi 👋, I’m Rajib
 
 <div align="center">
 
@@ -7,7 +7,7 @@ Hi 👋, I’m Rajib Sahoo
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Selenium+Automation+Engineer;AI+%26+Machine+Learning+Enthusiast;Flask+Web+Developer;Future+Software+Engineer" alt="Typing SVG" />
 </div>
 
-⸻
+---
 
 🌟 About Me
 
@@ -18,7 +18,7 @@ Hi 👋, I’m Rajib Sahoo
 * 🎯 Goal: Become a Software Engineer
 * 📍 Based in Karnataka, India
 
-⸻
+---
 
 🛠️ Tech Stack
 
@@ -50,7 +50,7 @@ Hi 👋, I’m Rajib Sahoo
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
 
-⸻
+---
 
 🚀 Featured Projects
 
@@ -66,7 +66,7 @@ Features
 * Fingerprint image classification
 * Real-time prediction results
 
-⸻
+---
 
 🔹 Diabetes Prediction Web App
 
@@ -79,20 +79,7 @@ Features
 * User-friendly interface
 * Real-time result generation
 
-⸻
-
-🔹 Career Path Recommendation System
-
-💼 AI-powered system that recommends suitable career paths using machine learning algorithms.
-
-Features
-
-* Numerical dataset processing
-* ML model integration
-* Interactive UI
-* Career prediction analysis
-
-⸻
+---
 
 🔹 Selenium Automation Testing Projects
 
@@ -105,16 +92,17 @@ Features
 * Web form automation
 * Browser testing workflows
 
-⸻
+---
 
-📈 GitHub Stats
+📊 GitHub Stats
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpRajib&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpRajib&layout=compact&theme=tokyonight" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SpRajib&show_icons=true&theme=github_dark&hide_border=true" height="150em"/>
 
-⸻
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SpRajib&layout=compact&theme=github_dark&hide_border=true" height="180em"/>
+</p>
+
+---
 
 🔥 GitHub Streak
 
@@ -122,7 +110,7 @@ Features
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpRajib&theme=tokyonight" />
 </div>
 
-⸻
+---
 
 🏆 Achievements
 
@@ -132,7 +120,7 @@ Features
 * ✅ Worked on deep learning and image processing projects
 * ✅ Practicing DSA & Python problem-solving
 
-⸻
+---
 
 📚 Currently Learning
 
@@ -142,7 +130,7 @@ Features
 * Machine Learning Optimization
 * Software Engineering Concepts
 
-⸻
+---
 
 🌐 Connect With Me
 
@@ -158,13 +146,13 @@ Features
   </a>
 </p>
 
-⸻
+---
 
 💡 Developer Quote
 
 “Code. Learn. Build. Improve. Repeat.”
 
-⸻
+---
 
 <div align="center">
 
